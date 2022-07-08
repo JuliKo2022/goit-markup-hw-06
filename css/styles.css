@@ -695,7 +695,7 @@ button.current {
 }
 .modal-close-btn:hover,
 .modal-close-btn:focus {
-  fill: var(--accent-color);
+  fill: #2196f3;
 }
 .modal-title {
   margin-top: 40px;
@@ -755,7 +755,7 @@ textarea {
   border: 1px solid var(--accent-color);
 }
 .modal-input:focus + .modal-icon {
-  fill: var(--accent-color);
+  fill: #2196f3;
 }
 .check-field {
   margin: 20px 40px 30px 52px;
@@ -785,7 +785,7 @@ textarea {
   border: none;
 }
 .modal-check:checked + .check-label .check-icon {
-  fill: #ffffff;
+  fill: rgb(255, 255, 255);
 }
 .modal-link {
   padding-left: 3px;
